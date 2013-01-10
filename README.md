@@ -32,6 +32,11 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
+######Font Package Managers
+* [ftpm](http://heldr.github.com/ftpm/)
+
+---
+
 ######CSS Base/Boilerplate
 * [normalize.css](http://necolas.github.com/normalize.css/)
 
