@@ -45,6 +45,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [skeleton](http://www.getskeleton.com/)
 * [baseline](http://baselinecss.com/)
 * [grumby](http://gumbyframework.com)
+* [uikit](http://getuikit.com/)
 
 ---
 
